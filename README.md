@@ -18,7 +18,7 @@ The application opens a live camera feed with hand landmark overlays. Detected g
 ---
 # Download the EXE file from here
 
-<a href="https://github.com/USERNAME/REPOSITORY/releases/download/v1.0/FaceRecognition.zip">
+<a href="https://drive.google.com/file/d/1uffsTdqVwEEUQYVL8o7QIuogMmcoIq2A/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download-Project-blue?style=for-the-badge" alt="Download Project">
 </a>
 
